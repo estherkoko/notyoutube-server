@@ -1,0 +1,19 @@
+{
+  "name": "notyoutube-backend",
+  "version": "1.0.0",
+  "description": "Backend for the NotYouTube web application",
+  "main": "server.js",
+  "scripts": {
+    "test": " \"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estherkoko/notyoutube-server.git"
+  },
+  "author": "Esther Kolade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estherkoko/notyoutube-server/issues"
+  },
+  "homepage": "https://github.com/estherkoko/notyoutube-server#readme"
+}
